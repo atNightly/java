@@ -66,5 +66,12 @@
                 |   |   
                 |   |-- sec05  --自定义异常类
                 |-- chap09  --Java常用类
-                |   |-- sec01  --Date类
+                |   |-- sec01  --Java日期处理类 Date类
+                |   |
+                |   |-- sec02  --String VS StringBuffer
+                |   |
+                |   |-- sec03  --Math类
+                |   |
+                |   |-- sec04  --Arrays类
+                |   |
 ```
