@@ -1,6 +1,4 @@
-package com.java.chap14.sec04;
-
-import jdk.internal.util.xml.impl.Input;
+package com.java.chap14.sec03;
 
 import java.io.*;
 
@@ -8,7 +6,7 @@ import java.io.*;
  * @author Yan
  * @date 2019/7/31 22:31
  */
-public class Demo1 {
+public class Demo6 {
 
     /**
      * 缓冲
